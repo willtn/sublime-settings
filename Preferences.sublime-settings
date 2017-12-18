@@ -1,0 +1,38 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Dracula Markdown (SL).tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"tab_size": 2,
+	"theme": "Agila Dracula.sublime-theme",
+	"theme_agila_active_tab_entry_yellow": true,
+	"theme_agila_auto_complete_yellow": true,
+	"theme_agila_camouflage": true,
+	"theme_agila_camouflage_semi": true,
+	"theme_agila_compact_sidebar": true,
+	"theme_agila_compact_tab": true,
+	"theme_agila_modified_tab_marker_white": true,
+	"theme_agila_sidebar_font_small": true,
+	"theme_agila_sidebar_light_icons": true,
+	"theme_agila_sidebar_mini": true,
+	"theme_agila_sidebar_selected_entry_yellow": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true
+}
